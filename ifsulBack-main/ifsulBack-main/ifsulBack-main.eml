@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true">
+	<output-test url="file://$USER_HOME$/Downloads/ifsulBack-main/out/test/ifsulBack-main"/>
+	<exclude-output/>
+	<contentEntry url="file://$USER_HOME$/Downloads/ifsulBack-main/ifsulBack-main"/>
+</component>

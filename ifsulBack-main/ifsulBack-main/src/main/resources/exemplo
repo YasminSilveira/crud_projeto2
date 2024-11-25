@@ -1,0 +1,13 @@
+{
+  "nome": "João Silva",
+  "fotoDePerfilURL": "https://exemplo.com/foto.jpg",
+  "curriculo": null,
+  "projetosCriados": null,
+  "projetosParticipados": null,
+  "usuarioTipo": "ALUNO",
+  "matricula": "123456",
+  "email": "joao.silva@exemplo.com",
+  "senha": "senhaSegura123",
+  "dataCriacao": "2024-11-05T14:30:00",
+  "dataAtualizacao": "2024-11-05T14:30:00"
+}
